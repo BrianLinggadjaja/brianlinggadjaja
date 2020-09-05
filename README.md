@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello!
+My name is Brian...
+
+Feel free to visit my other profiles!
+## [Website](BrianLinggadjaja.dev) | [LinkedIn](linkedin.com/in/brian-linggadjaja-766971165)
+
+or
+
+Contact me through email
+### BrianLinggadjaja@outlook.com
 
 <!--
 **BrianLinggadjaja/brianlinggadjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
