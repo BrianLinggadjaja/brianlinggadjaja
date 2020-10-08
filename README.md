@@ -2,7 +2,7 @@
 My name is Brian...
 
 **Feel free to visit my other profiles**
-**[Website](https://mynameisbrian.dev) | [LinkedIn](https://linkedin.com/in/brian-linggadjaja-766971165)**
+**[Website](https://mynameisbrian.dev) | [Resume](https://brianlinggadjaja.github.io/personal_resume/) | [LinkedIn](https://linkedin.com/in/brian-linggadjaja-766971165)**
 
 or
 
