@@ -10,9 +10,10 @@ or
 **Reach out to me via email @**
 **BrianLinggadjaja@outlook.com**
 
+---
 
-# Highlighted Projects
-## Personal Projects
+## Highlighted Projects
+### Personal Projects
 - [mynameisbrian.dev](https://github.com/BrianLinggadjaja/mynameisbrian.dev), my personal website portfolio/tech blog built with **VuePress** & **CI/CD** pipeline w/ **GitHub Actions**.
 
 - [Simple Markdown Notetaker](https://github.com/BrianLinggadjaja/simple_markdown_notetaker), a simple WebApp using external libraries w/ **Vue.js** to help build a Markdown editor/preview experience.
@@ -23,7 +24,7 @@ or
 
 - [Timesheet](https://github.com/BrianLinggadjaja/timesheet), a tabular timesheet calculator built with **vanilla JS**.
 
-## Team Based Projects
+### Team Based Projects
 - [iSTART](https://github.com/BrianLinggadjaja/iSTART), a college job project @ CSUN that dealt with substance prevention built upon **Vue.js/Laravel** with my team and I (Front-End Project Lead). Which deals with studying the best way to deliver interactive learning content to users.
 
 - [Nomi](https://github.com/BrianLinggadjaja/nomi), a college job project @ META+Lab built upon **Vue.js/Laravel** with my team and I (Front-End Developer). That tackles the problem of student/professor interaction by helping Professors study individuals Names & Faces for better interaction within the classroom.
