@@ -1,4 +1,4 @@
-![Personal Logo](https://github.com/BrianLinggadjaja/brianlinggadjaja/blob/main/assets/Logo-Light-BG.png?raw=true)
+![Personal Logo](https://raw.githubusercontent.com/BrianLinggadjaja/brianlinggadjaja/main/assets/Logo-Light-BG_v2.png)
 
 # Hello!
 My name is Brian...
