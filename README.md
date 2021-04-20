@@ -1,3 +1,5 @@
+![Personal Logo](https://github.com/BrianLinggadjaja/brianlinggadjaja/blob/main/assets/Logo-Light-BG.png?raw=true)
+
 # Hello!
 My name is Brian...
 
