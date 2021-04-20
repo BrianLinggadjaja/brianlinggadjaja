@@ -10,7 +10,6 @@ or
 **Reach out to me via email @**
 **BrianLinggadjaja@outlook.com**
 
----
 
 # Highlighted Projects
 ## Personal Projects
