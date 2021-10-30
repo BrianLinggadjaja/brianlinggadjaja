@@ -16,13 +16,13 @@ or
 ### Personal Projects
 - [mynameisbrian.dev](https://github.com/BrianLinggadjaja/mynameisbrian.dev), my personal website portfolio/tech blog built with **VuePress** & **CI/CD** pipeline w/ **GitHub Actions**.
 
-- [Simple Markdown Notetaker](https://github.com/BrianLinggadjaja/simple_markdown_notetaker), a simple WebApp using external libraries w/ **Vue.js** to help build a Markdown editor/preview experience.
+- [Simple Markdown Notetaker](https://github.com/BrianLinggadjaja/simple_markdown_notetaker), a simple WebApp using external libraries w/ Vue.js to help build a Markdown editor/preview experience.
 
-- [Typing Test](https://github.com/BrianLinggadjaja/typing_test), a dual mode typing test built with **vanilla JS**.
+- [Spotify to Excel](https://github.com/BrianLinggadjaja/spotify_to_excel-v2), a conversion tool to help grab your Spotify playlist and liked tracks while providing a consumable `.xlsx` file using vanilla JS.
 
-- [Spotify to Excel](https://github.com/BrianLinggadjaja/spotify_to_excel-v2), a conversion tool to help grab your Spotify playlist and convert it into a `.xlsx` file using **vanilla JS**.
+- [Typing Test](https://github.com/BrianLinggadjaja/typing_test), a simple tabular timesheet calculator built with vanilla JS which aided my time-tracking at work.
 
-- [Timesheet](https://github.com/BrianLinggadjaja/timesheet), a tabular timesheet calculator built with **vanilla JS**.
+- [Timesheet](https://github.com/BrianLinggadjaja/timesheet), an assignment created for my Web Engineer college course that tracks typing speed with a dual-mode test.
 
 ### Team Based Projects
 - [iSTART](https://github.com/BrianLinggadjaja/iSTART), a college job project @ CSUN that dealt with substance prevention built upon **Vue.js/Laravel** with my team and I (Front-End Project Lead). Which deals with studying the best way to deliver interactive learning content to users.
